@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17653" started-at="2021-02-22T17:06:38Z" finished-at="2021-02-22T17:06:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17653" started-at="2021-02-22T17:06:38Z" finished-at="2021-02-22T17:06:56Z">
+      <class name="LauchGoogle">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:LauchGoogle@51081592]" name="launchBrowser" duration-ms="17542" started-at="2021-02-22T22:36:38Z" finished-at="2021-02-22T22:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- LauchGoogle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
